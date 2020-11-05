@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/victorcoutodev/clean-code-node-api/issues"
   },
-  "homepage": "https://github.com/victorcoutodev/clean-code-node-api#readme"
+  "homepage": "https://github.com/victorcoutodev/clean-code-node-api#readme",
+  "devDependencies": {
+    "standard": "^16.0.1"
+  }
 }
