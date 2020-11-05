@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/victorcoutodev/clean-code-node-api#readme",
   "devDependencies": {
+    "lint-staged": "^10.5.1",
     "standard": "^16.0.1"
   }
 }
