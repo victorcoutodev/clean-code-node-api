@@ -1,3 +1,3 @@
 function test(){
-    return {a+b};
+    return {a+b+c};
 }
