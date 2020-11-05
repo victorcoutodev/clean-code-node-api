@@ -1,0 +1,19 @@
+{
+  "name": "clean-code-node-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/victorcoutodev/clean-code-node-api.git"
+  },
+  "author": "Victor Couto",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/victorcoutodev/clean-code-node-api/issues"
+  },
+  "homepage": "https://github.com/victorcoutodev/clean-code-node-api#readme"
+}
