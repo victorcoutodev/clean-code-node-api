@@ -2,5 +2,5 @@ module.exports = {
   clearMocks: true,
   coverageProvider: 'v8',
   testEnvironment: 'node',
-  collectCovarageFrom: ['**/src/**/*.js']
+  collectCoverageFrom: ['**/src/**/*.js']
 }
