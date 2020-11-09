@@ -1,5 +1,6 @@
 module.exports = {
   clearMocks: true,
   coverageProvider: 'v8',
-  testEnvironment: 'node'
+  testEnvironment: 'node',
+  collectCovarageFrom: ['**/src/**/*.js']
 }
